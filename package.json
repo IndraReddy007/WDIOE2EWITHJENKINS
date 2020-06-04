@@ -1,0 +1,17 @@
+{
+  "name": "WebDriverIO",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wdio.conf.js",
+  "dependencies": {
+    "chromedriver": "^83.0.0",
+    "wdio-chromedriver-service": "^6.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
